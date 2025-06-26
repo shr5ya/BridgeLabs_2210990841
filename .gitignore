@@ -1,0 +1,1 @@
+This bytecode is platform-independent and is executed by the JVM, which acts as an interpreter, reading and executing each line of bytecode during runtime.
