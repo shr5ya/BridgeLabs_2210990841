@@ -7,4 +7,13 @@ We did .gitignore command and we pushed everything,we also edited .gitignore afi
 27/06/2025
 we discussed about Boxing and Unboxing in java which is automatic conversions between primitive datatypes and their corresponding wrapper classes, and then we discussed about the sizes of the datatypes and their types. We also created new branch on the github repo with command, git branch Features and then we pushed our branch, git push -u origin Features and then we checked what all branches we have with command,git branch. we added anew file called text1 in features branch. we also made another branch called features1.
 
+30/06/2025
+today we discussed about variables and its types~ 
+Local variable: declared within the method.
+Instance:declare outside method but within class.
+Static: declare with static keyword.
+and also about their declaration, initialization.
+Then we discussed about classes and its declaration.
+
+
 
