@@ -15,5 +15,10 @@ Static: declare with static keyword.
 and also about their declaration, initialization.
 Then we discussed about classes and its declaration.
 
+01/07/2025
+today we discussed about methods and its initialization and declaration.
+we made simple calculator, through methods and scanner class too.
+
+
 
 
