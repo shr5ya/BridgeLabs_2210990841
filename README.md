@@ -19,6 +19,12 @@ Then we discussed about classes and its declaration.
 today we discussed about methods and its initialization and declaration.
 we made simple calculator, through methods and scanner class too.
 
+2/07/2025
+we did revision of everything and than we did calculator with the help of scanner input taking everything as input, than we did double and float and long in it. than we did our first program in notepad++,comppiled the file than exectued it taking scanner input code.
+
+3/07/2025
+we did a quick revision of java syntax than we did a few codes on notepad++ like printing hello world.
+
 
 
 
