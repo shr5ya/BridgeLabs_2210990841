@@ -25,6 +25,9 @@ we did revision of everything and than we did calculator with the help of scanne
 3/07/2025
 we did a quick revision of java syntax than we did a few codes on notepad++ like printing hello world.
 
+7/07/2025
+Explored Java switch statements to simplify conditional logic.Implemented a salary calculator using switch, assigning basic salary and HRA based on employee levels.Built a traffic signal program using switch to display actions for red, yellow, and green lights.Practiced dynamic input handling with Scanner and clean output formatting.Reinforced understanding of arrays
+
 
 
 
